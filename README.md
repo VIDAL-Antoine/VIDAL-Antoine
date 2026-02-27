@@ -1,7 +1,7 @@
 ## About me
 Hello, I’m VIDAL Antoine. I’m interested in software engineering. I like all aspects of it, whether it is front-end or back-end.
 
-I like studying Japanese / 日本語 in my free time (currently at JLPT N3 / B1 level).
+I like studying Japanese / 日本語 in my free time (currently at JLPT N3 / A2 level).
 
 ## Skills
 
